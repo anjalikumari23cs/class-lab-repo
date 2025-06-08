@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name:Anjali 
+- Certification:Meta front end professional certificate
 
 ## Instructions
 Please replace the placeholders with your details:
